@@ -1,2 +1,7 @@
-點擊website後可點選 game 或 ranking
-[website](https://maureensayshi.github.io/puzzle/dist/index.html)
+# Buid a Puzzle Game with React.js, React Router, and Webpack
+
+## Stack and Tools for developing
+* **Framework and Library:** React.js, React Router
+* **Module Management:** Webpack
+
+[View Website](https://maureensayshi.github.io/Puzzle-Game-for-React-Router-Practice/dist/index.html)
