@@ -4,4 +4,4 @@
 * **Framework and Library:** React.js, React Router
 * **Module Management:** Webpack
 
-[View Website](https://maureensayshi.github.io/Puzzle-Game-for-React-Router-Practice/dist/index.html)
+[View Website](https://maureensayshi.github.io/Puzzle-Game/dist/index.html)
